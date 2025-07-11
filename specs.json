@@ -1,0 +1,14 @@
+{
+    "vessel_min_moves": 500,
+    "vessel_max_moves": 3000,
+    "default_moves": 1500,
+    "min_cranes": 1,
+    "max_cranes": 4,
+    "default_cranes": 2,
+    "min_mph": 20,
+    "max_mph": 40,
+    "default_min_mph": 25,
+    "default_max_mph": 30,
+    "day_hours": 24,
+    "number_of_vessels": 3
+}
